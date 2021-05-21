@@ -1,0 +1,18 @@
+[Event "Casual game"]
+[Site "Berlin GER"]
+[Date "1914.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Richard Teichmann"]
+[Black "NN"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "25"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/1NBQKBNR w Kkq - 0 1"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qd8 4.Nf3 Bg4 5.Bc4 e6 6.h3 Bxf3
+7.Qxf3 c6 8.d3 Qf6 9.Qg3 Nh6 10.Bg5 Qg6 11.Nb5 cxb5 12.Qxb8+
+Rxb8 13.Bxb5# 1-0

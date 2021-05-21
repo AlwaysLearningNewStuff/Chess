@@ -1,0 +1,16 @@
+[Event "Moscow"]
+[Site "Moscow URS"]
+[Date "1935.02.15"]
+[EventDate "1935.02.15"]
+[Round "1"]
+[Result "1-0"]
+[White "Mikhail Botvinnik"]
+[Black "Rudolf Spielmann"]
+[ECO "B13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "23"]
+
+1.c4 c6 2.e4 d5 3.exd5 cxd5 4.d4 Nf6 5.Nc3 Nc6 6.Bg5 Qb6
+7.cxd5 Qxb2 8.Rc1 Nb4 9.Na4 Qxa2 10.Bc4 Bg4 11.Nf3 Bxf3
+12.gxf3 1-0

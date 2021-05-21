@@ -1,0 +1,17 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 d6 5. d4 exd4 6. cxd4 Bb4+ $2 {correct was
+Bb6 controlling the center} 7. Kf1 $1 {white sacrifices castling right for
+initiative he gets when attacking the exposed bishop} 7... Ba5 (7... Bd7 $2 8. Qb3
+{f7 hangs and d5 threatens, winning the bishop} 8... Ba5 9. Bxf7+ Kf8 10. Bxg8
+Rxg8 11. Ng5 $37 Qe8 12. Nxh7+ Ke7 13. Bg5#) 8. Qb3 Qd7 (8... Qe7 $2 9. d5 Ne5 10.
+Nxe5 dxe5 (10... Qxe5 11. Qa4+ Bd7 12. Qxa5 Qxe4 13. Na3 $18) 11. Qa4+ Bd7 12.
+Qxa5 $18) 9. d5 $14 {white will \"castle\" with h3, Kg1, Kh2 maneuver since black
+lacks coordination; his better development and piece coordination give him small
+advantage} *

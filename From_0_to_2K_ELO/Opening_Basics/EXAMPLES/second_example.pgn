@@ -1,0 +1,16 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Bg4 4. Nc3 a6 $2 {passive, unnecessary move that does
+not contribute to center control nor develops a piece} 5. Nxe5 $1 $37 {white has
+decisive development advantage, +2 developed pieces usually gives enough
+advantage to start an attack} 5... dxe5 (5... Bxd1 $4 6. Bxf7+ Ke7 7. Nd5#) (5...
+Nf6 6. Bxf7+ Ke7 7. Nd5+ $1 {deflecting the knight from defending the bishop} 7...
+Nxd5 8. Qxg4 $18 {threatening Qe6 checkmate} 8... Qd7 {only defence} (8... Kf6 $2
+9. Qf5+ $1 Ke7 10. Qe6#) (8... dxe5 $4 9. Qe6#) 9. Nxd7 Kxf7 10. exd5 $18) 6. Qxg4
+$18 *

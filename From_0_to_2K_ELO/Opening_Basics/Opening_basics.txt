@@ -1,0 +1,29 @@
+GUIDELINES: 
+
+ - Control central space with your pawns
+ - Castle early to connect the rooks and evacuate king from the center of the board
+ - Develop every piece, do not move same piece twice
+ - Do not introduce queen into battlefield early on -> opponents minor pieces develop with "tempo"
+ - Strike when you have advantage
+	If you succeed in getting a large lead in development 
+	(especially if you have castled and your opponent isn't), 
+	there might be a chance for you to win the game by 
+	opening the center and starting a tactical skirmish with your fully mobilized army, 
+	before your opponent's pieces come into play
+ - Develop your pieces in following order: knights first, then bishops, castle
+ - Do not move the pawns in front of the king
+ - capture/develop towards the center
+ - Attack on the wing is refuted with the action in the center of the board
+ - Do not chase a piece that you want to exchange, 
+	put your own piece you want to exchange on strong squares 
+	so opponent is forced to exchange it
+ 
+TYPICAL MISTAKES:
+ 
+ - lagging in development
+ - late castling
+ - passive/unnecessary moves, weak threats/attacks
+ - playing with one piece excessively
+ - pawn grabbing
+ - randomly checking the opponent's king
+ - bad exchanges

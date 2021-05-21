@@ -1,0 +1,47 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 f6 $2 {falls behind in development, weakens king (h5-e8 diagonal)
+and blocks f6 square for the knight} 3. Nxe5 $1 $37 {when having advantage, we need
+to strike not fearing to sacrifice if necessary} 3... Qe7 (3... fxe5 $2 4. Qh5+
+Ke7 (4... g6 5. Qxe5+ Qe7 6. Qxh8 Nf6 {white queen is trapped so he needs to
+develop his pieces fast in order to save her} (6... Qxe4+ 7. Kd1 Ne7 8. Nc3 Qf5
+9. f3 d5 10. d4 $5 Be6 11. Bd3 Qf7 12. Bh6 Nd7 13. Bxf8 Nxf8 14. Re1 O-O-O 15.
+Qe5 $18 {black does have development advantage but his piece coordination is
+horrible so white will have enough time to consolidate and win due to extra
+material}) 7. Nc3 d6 8. d4 Nxe4 9. Nd5 $1 Qf7 10. f3 {defending from Qxf2} 10...
+Qxd5 11. Bh6 $1 {intermediate move that develops another piece and threatens to
+take on f8 so white gets back the piece} 11... Nd7 12. fxe4 Qh5 (12... Qxe4+ 13.
+Kd2 $1 {with idea of attacking with Re1 since Black king is stuck in the center}
+13... Qh4 14. Re1+ $1 {another intermediate move that develops a rook first before
+defending the bishop} 14... Kd8 15. Bxf8 Qf4+ 16. Re3 Qxf8 17. Qxf8+ Nxf8 $18)
+13. Bxf8 Nxf8 14. Qf6 $18) 5. Qxe5+ Kf7 6. Bc4+ d5 (6... Kg6 7. Qf5+ Kh6 8. d4+
+g5 (8... Qg5 9. Qxg5#) 9. h4 $37 {white wastes no time since he has development
+advantage and enough pieces to checkmate} 9... Bb4+ (9... Be7 10. hxg5+ Kg7 11.
+Qf7#) (9... d5 10. Qf7 $1 Bb4+ 11. Nc3 Bxc3+ 12. bxc3 Qf6 13. hxg5#) 10. Nc3 Qe7
+{covering f7} 11. Bxg5+ Kg7 12. Bxe7 Bxe7 13. Qf7+ Kh6 14. g4 d6 15. g5+ Bxg5
+16. hxg5+ Kxg5 17. Qg7+ Kf4 18. Qg3#) 7. Bxd5+ Kg6 8. h4 $37 h6 9. Bxb7 Bd6 {black
+will use exposed white queen to catch up in development by attacking her but it
+is too late to save the game} (9... Bxb7 $4 10. Qf5#) 10. Qa5 {it is important
+that queen controls f5 square so black can not take the bishop} 10... Nf6 11.
+Bxa8 $18 Rf8 {white needs to be careful and start developing his pieces as black
+is now who has development advantage} 12. d3 {with pawns controlling the center
+white has enough time to finish his development and win due to his material
+advantage} 12... Na6 {threatening Bb4+} 13. Bd2 {remember the principle, always
+develop your pieces, quantity beats quality} 13... Ng4 14. f3 Bc5 15. Nc3 Nf2
+16. Ke2 $1 {white will give back the exchange but black attack will dissipate
+leaving white with enough extra material to win the game} 16... Nxh1 17. Rxh1
+Kh7 18. Kd1 Bb6 19. Qe5 Bd7 20. Bd5 Nb4 21. Qg3 Nxd5 22. Nxd5 Bd4 23. Bc3 c5 24.
+Bxd4 cxd4 25. Qd6 $1 Qc8 26. Kc1 Be6 27. Kb1 Rd8 28. Qe5 Bxd5 29. exd5 Qc5 30. Re1
+Rc8 31. Re2 $18) 4. Nf3 Qxe4+ {queen is exposed to the attacks of White's minor
+pieces, which will give white development advantage} 5. Be2 {defending while
+developing another piece; white does not want to exchange queens since he is
+ahead in development so he will attack soon} 5... d5 6. O-O {with rook coming to
+e1 white has winning attack due to Black's weak king on e8 and lack of developed
+pieces} 6... Ne7 7. Nc3 Qe6 8. Re1 Nbc6 9. d4 Bd7 10. Ba6 Qf7 11. Bxb7 Rb8 12.
+Ba6 $18 *

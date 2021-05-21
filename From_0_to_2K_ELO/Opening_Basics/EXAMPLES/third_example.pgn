@@ -1,0 +1,22 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 d6 5. Nc3 Nge7 $2 $18 {passive move that
+weakens king's defense} 6. Ng5 $1 $37 {attacking the f7 weakness, forcing Black to
+castle} 6... O-O (6... Be6 $2 7. Bxe6 fxe6 8. Nxe6 Qd7 9. Nxg7+ Kf7 10. Nh5 $18)
+(6... f6 $2 7. Qh5+ $1 g6 8. Bf7+ Kd7 (8... Kf8 $4 9. Qh6#) 9. Qh3+ $1 f5 (9... Nf5 10.
+exf5 Nd4 11. Ne6 {hitting both knight and queen} 11... Qe7 12. Nxd4 Qxf7 13.
+fxg6+ Ke7 14. Qxc8 Raxc8 15. gxf7 Bxd4 $18) 10. Ne6 $18 {black queen is trapped})
+(6... f5 $2 7. Nf7 Qd7 8. Nxh8 $18) 7. Qh5 $1 $37 {decisive attack, hitting both f7 and
+h7} (7. Nxf7 $2 Rxf7 8. Bxf7+ Kxf7 $17 {white pressure has disappeared and he is
+behind in development; black will spend a tempo on Kg8 to secure the king and
+start attacking afterward}) 7... h6 8. Nxf7 Rxf7 (8... d5 9. Nxd5 Rxf7 10. Nf6+
+gxf6 (10... Kf8 11. Qxf7#) (10... Kh8 11. Qxf7 $18 {Bxh6 and Qh7 checkmate is the
+threat, black must lose even more material to prevent this}) 11. Qxf7+ Kh8 12.
+Qxf6+ Kh7 13. Qxh6#) 9. Qxf7+ Kh8 10. Bg5 $1 Bd7 (10... hxg5 11. Qh5#) 11. Nd5 Qe8
+12. Qxe8+ Rxe8 13. Bxe7 Nxe7 14. Nxc7 $18 *

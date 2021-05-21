@@ -1,0 +1,16 @@
+[Event "Simul, 35b"]
+[Site "Glasgow SCO"]
+[Date "1923.10.02"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Alexander Alekhine"]
+[Black "Dr. J Forrester"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "29"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4.Ba4 Nf6 5. Nc3 Bc5 6. Nxe5
+Nxe5 7. d4 Bb4 8. dxe5 Nxe4 9. Qd4 Nxc3 10. bxc3 Ba5 11. Ba3
+b6 12. e6 Qf6 13. Bxd7+ Kd8 14. Bc6+ Qxd4 15. e7# 1-0

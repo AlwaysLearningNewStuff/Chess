@@ -1,0 +1,17 @@
+[Event "Breslau"]
+[Site "Breslau"]
+[Date "1862.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Jakob Rosanes"]
+[Black "Adolf Anderssen"]
+[ECO "C31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1.e4 e5 2.f4 d5 3.exd5 e4 4.Bb5+ c6 5.dxc6 Nxc6 6.Nc3 Nf6
+7.Qe2 Bc5 8.Nxe4 O-O 9.Bxc6 bxc6 10.d3 Re8 11.Bd2 Nxe4 12.dxe4
+Bf5 13.e5 Qb6 14.O-O-O Bd4 15.c3 Rab8 16.b3 Red8 17.Nf3 Qxb3
+18.axb3 Rxb3 19.Be1 Be3+ 0-1

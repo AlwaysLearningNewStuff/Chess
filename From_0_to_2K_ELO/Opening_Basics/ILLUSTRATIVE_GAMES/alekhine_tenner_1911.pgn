@@ -1,0 +1,17 @@
+[Event "Cologne Germany (analysis)"]
+[Site "Cologne Germany"]
+[Date "1911.??.??"]
+[EventDate "1911.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "Alexander Alekhine"]
+[Black "Oscar Tenner"]
+[ECO "C30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "29"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3
+d6 4. Nc3 Nf6 5. Bc4 Nc6 6. d3 Bg4 7. Na4 exf4 8. Nxc5 dxc5
+9. Bxf4 Nh5 10. Be3 Ne5 11. Nxe5 Bxd1 12. Bxf7+ Ke7 13. Bxc5+
+Kf6 14. O-O+ Kxe5 15. Rf5# 1-0
