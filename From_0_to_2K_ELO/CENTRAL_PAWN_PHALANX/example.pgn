@@ -1,0 +1,20 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb6 $2 (6... Bb4+ 7.
+Nc3 (7. Bd2 Bxd2+ 8. Nbxd2 d5 9. exd5 Nxd5) 7... Nxe4) 7. d5 Ne7 (7... Na5 8.
+Bd3 {threatens b4 winning the knight} 8... c5 9. d6 $1 $18) 8. e5 Ng4 (8... Ne4 9.
+O-O Nxf2 10. Rxf2 Bxf2+ 11. Kxf2 d6 12. exd6 cxd6 13. Qd4 O-O 14. Kg1 Nf5 15.
+Qf2 $1 Qc7 16. Na3 Qb6 17. Bf4 Re8 $18) (8... Ba5+ 9. Nc3 Ne4 10. O-O Nxc3 (10...
+Bxc3 11. bxc3 Nxc3 12. Qd3 Na4 13. d6 cxd6 (13... Nc6 14. Qf5 O-O 15. Bg5 Qe8
+16. Bf6 gxf6 17. exf6 $18) 14. exd6 Nc6 15. Re1+ Kf8 16. Qf5 f6 17. Qh5 g6 18.
+Bh6#) 11. bxc3 Bxc3 12. d6 $1 $37 Bxa1 13. Bg5 f6 14. exf6 Bxf6 (14... gxf6 15. Qxa1
+Rf8 16. dxe7 Qxe7 17. Re1 $18) 15. dxe7 $18) (8... Nfg8 9. d6 cxd6 10. exd6 Nc6
+11. O-O Kf8 12. Re1 Nf6 13. Nc3 h6 14. Ne5 Nxe5 15. Rxe5 Rh7 16. Re7 g6 17.
+Bxh6+ Rxh6 18. Rxf7+ Kg8 (18... Ke8 19. Qe2+ $18) 19. Rxf6+ Kg7 20. Rf7+ Kh8 $18)
+9. d6 $1 Nxf2 10. Qb3 Nxh1 11. Bxf7+ Kf8 12. Bg5 cxd6 13. exd6 $18 *

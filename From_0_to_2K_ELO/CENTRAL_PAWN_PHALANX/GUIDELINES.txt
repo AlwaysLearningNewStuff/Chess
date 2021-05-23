@@ -1,0 +1,7 @@
+Side with the pawn phalanx strives to move them as far as possible, resulting in driving opponent's pieces to passive positions damaging their coordination.
+Consider sacrificing phalanx pawns to open files and diagonals for your attacking pieces.
+
+Side fighting against pawn phalanx can deploy one of the following techniques (or combine them):
+- pressure the pawn phalanx with the pieces from afar (usually with rooks)
+- exchange one or both of the phalanx pawns, typically counter-striking phalanx with wing pawn
+- force one of the phalanx pawns to advance, block them and then siege them since they are immobilised and weak
