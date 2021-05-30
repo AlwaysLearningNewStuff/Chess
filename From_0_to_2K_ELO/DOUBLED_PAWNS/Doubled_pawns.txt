@@ -1,0 +1,13 @@
+============== SIDE WITH DOUBLED PAWNS:
+
+do not move doubled pawns, leave them intact in phalanx state
+doubled pawns prefer to be a part of pawn structure, they are very weak when isolated
+doubled pawns offer additional control of the squares, but less pawn breaks
+piece play is prevalent
+
+============== SIDE FIGHTING DOUBLED PAWNS:
+
+force pawns to move and occupy newly created weak squares with pieces
+pawn endgame is usually won since doubled pawns can not produce passed pawn
+any type of endgame usually gives advantage to side without doubled pawns
+consider exchanging front doubled pawn to open lines for attack on the remaining one
