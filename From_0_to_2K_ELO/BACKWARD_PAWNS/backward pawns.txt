@@ -1,0 +1,25 @@
+ =========== CONS:
+
+ - backward pawns cannot be defended by other pawns so our pieces must defend them which passivizes them
+ - endgames, especially pawn ones, are usually lost for the side with backward pawn
+ - backward pawns usually obstruct our piece coordination
+ - square in front of the backward pawn is usually weak
+ - succeptible to blockade, which might paralize it's entire army
+
+============ PROS:
+
+ - none :(
+
+============ SIDE WITH THE BACKWARD PAWN:
+
+- get rid of the backward pawn, possible solutions include:
+           - sacrifice it for superior piece activity if possible
+           - move it forward, forcing its exchange or creating hanging pawns which are better option
+- control the square in front of the backward pawn with the pawn if possible, otherwise with pieces
+- dynamically exchange the backward pawn for opponent's pawn (usually involves tactical tricks)
+
+============ SIDE WITH THE BACKWARD PAWN:
+
+ - exhange the pieces guarding the square in front of the backward pawn
+ - remove pawn protection of the square in front of the backward pawn
+ - blockade the backward pawn with a piece
