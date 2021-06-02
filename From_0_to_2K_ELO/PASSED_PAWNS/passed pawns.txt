@@ -1,0 +1,26 @@
+=============== PROS:
+
+ - on its march it creates great outposts for its army
+ - has no pawn opposition to stop it from promotion
+ - usually offers space advantage
+ - ties enemy pieces to passive positions in order to stop it from advancing
+
+=============== CONS:
+
+ - can become overextended becoming to expensive to protect
+ - can be sieged on its open file
+ - endgames are very unclear and piece-position dependent
+
+=============== SIDE WITH THE PASSED PAWN:
+
+prefers to keep rooks and queen on the board and exchange bishops and knights
+prefers to have open files near the passed pawn
+seeks favorable moment to transition into won endgame (endgame knowledge is essential, especially rook endgames)
+tries to create another point of attack, usually the opponent's king
+
+=============== SIDE FIGHTING THE PASSED PAWN:
+
+prefers to exchange rooks and queen, while keeping bishops and knights on the board
+must blockade the passed pawn and then siege it
+tries to exploit overextension of the passed pawn (pawn endgames are ideal for this)
+tries to open files around passed pawn and use them to siege the pawn from the flank
