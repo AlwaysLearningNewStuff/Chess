@@ -1,0 +1,11 @@
+ ========= SIDE WITH HANGING PAWNS:
+
+ - pawn breakthrough, transforming them into passed pawn
+ - pawn sacrifice for attack, usually attack on the king
+
+ ========= SIDE FIGHTING HANGING PAWNS:
+
+ - strive for exchanges
+ - pressure the pawns from afar (with rooks, queen or bishops)
+ - force them to move, creating backward pawn
+ - attack them with the pawn from a flank
