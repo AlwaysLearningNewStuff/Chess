@@ -1,0 +1,28 @@
+========== CHARACTERISTICS:
+
+ - has no neighbouring pawns, which makes it a static weakness, especially in the endgame
+ - square in front of the isolated pawn is great outpost for opponent's pieces 
+ - usually offers space advantage, great outposts and active piece play to the owner
+
+========== SIDE WITH THE ISOLATED PAWN:
+
+ - strives to advance the pawn, opening the game while opponent is discoordinated
+ - strives to attack, usually launching mating attack on the kingside
+ - refrains from moving the pawns so it can use 3rd/6th rank to position the rooks for attack
+
+========== SIDE FIGHTING THE ISOLATED PAWN:
+
+ - strives for exchanges, especially pawn endgames
+ - strives to blockade the isolated pawn and then siege it ( use the square in front of the isolated pawn)
+ - strives for pure heavy piece (rooks/queens) endgames using "Alekhine gun" to capture the isolated pawn
+ - transposition, via exchange, into isolated pawn pair with backward pawn 
+
+
+
+
+
+
+
+
+
+ 
