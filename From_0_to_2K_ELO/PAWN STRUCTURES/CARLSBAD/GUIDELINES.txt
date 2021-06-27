@@ -1,0 +1,44 @@
+============ CHARACTERISTICS:
+
+We shall use the below diagram for analysis, where B symbolises black pawn and W symbolises white pawn.
+
+8 [ ][ ][ ][ ][ ][ ][ ][ ]
+7 [B][B][ ][ ][ ][B][B][B]
+6 [ ][ ][B][ ][ ][ ][ ][ ]
+5 [ ][ ][ ][B][ ][ ][ ][ ]
+4 [ ][ ][ ][W][ ][ ][ ][ ]
+3 [ ][ ][ ][ ][W][ ][ ][ ]
+2 [W][W][ ][ ][ ][W][W][W]
+1 [ ][ ][ ][ ][ ][ ][ ][ ]
+   a  b  c  d  e  f  g  h
+
+White is in the driver's seat.
+Black's reaction depends on which plan White adopts.
+
+=========== PLANS FOR WHITE :
+
+ - minority attack with b4-b5xc6
+        
+   1. White carries out the b4-b5 advance when Black can not reply with ...c6-c5, 
+      which means that White needs to control the c-file and in particular the c5-square.
+
+   2. It is useful for White to exchange his own dark-squared bishop for the enemy knight.
+
+   3. The move g2-g3 is also good for White, protecting against the possible advance of the enemy f-pawn.
+
+   4. White often exchanges light-squared bishops to make progress with the minority attack.
+
+   5. keep rooks on the board, remove minor pieces
+
+ - attack in the centre with e3-e4
+ - kingside attack with both sides castled on the kingside
+ - kingside attack with the kings castled on opposite sides
+ - play in positions with both sides castled on the queenside
+
+=========== PLANS FOR BLACK :
+
+ - kingside counterattack with pawns
+ - Kingside counterattack with pieces
+ - positional methods of defense (b5 barrier + c4 outpost, a6/a5 push, cxb5 + a5)
+ - c5 break, creating isolated d5 pawn
+ - counter-attack against White's queenside castle

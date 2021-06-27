@@ -1,0 +1,18 @@
+[Event "PRO Chess League (Knock-Out)"]
+[Site "https://lichess.org/p9BPIlYp"]
+[Date "2017.03.08"]
+[Round "2"]
+[White "Yannick Gozzoli"]
+[Black "Romain Edouard"]
+[Result "1-0"]
+[WhiteElo "2586"]
+[BlackElo "2626"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "A46"]
+[Opening "Indian Defense: Wade-Tartakower Defense"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Nf3 d6 3. c4 Nbd7 4. Nc3 e5 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 Qd8 8. Qc2 g6 9. dxe5 Nxe5 10. Nxe5 dxe5 11. Bd3 Bg7 12. O-O-O Bd7 13. h4 O-O 14. h5 g5 15. Bf5 Bxf5 16. Qxf5 Qe7 17. Ne4 Rfd8 18. a3 Kf8 19. g4 b6 20. Rxd8+ Rxd8 21. Rd1 Rxd1+ 22. Kxd1 Qd8+ 23. Kc2 Ke7 24. Ng3 c6 25. Qh7 Bf8 26. Nf5+ Ke8 27. Qh8 f6 28. Qg8 Qd7 29. f3 b5 30. Qg6+ Qf7 31. Kc3 a5 32. b4 axb4+ 33. axb4 bxc4 34. e4 Be7 35. Qxf7+ Kxf7 36. Nxh6+ Kf8 37. Kxc4 Bd8 38. Nf5 Bb6 39. Nd6 Kg7 40. Nb7 1-0
+
+

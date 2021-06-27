@@ -1,0 +1,15 @@
+ - Each pawn move lessens a control of a square but also figths to control new square
+ - Uncontrolled square is a square that can no longer be controlled with a pawn
+ - With such a square we can no longer drive away opponent's piece if it lands there
+ - Weak squares are squares we do not control with our pawns that can become great outposts for opponent's pieces
+ - Strong squares are squares uncontrolled  by opponent that can become great outposts for our pieces
+
+====== PLANS FOR SIDE WITH WEAK SQUARE:
+
+ - Keep your pieces that can control that square on the board
+ - exchange opponent's pieces that can land on weak square for your pieces that can not control weak square
+
+====== PLANS FOR EXPLOITING WEAK SQUARE:
+
+ - exchange opponent's pieces that can control weak square for your pieces that can not control weak square
+ - control weak square with a pawn and then use that square as an outpost for your pieces
