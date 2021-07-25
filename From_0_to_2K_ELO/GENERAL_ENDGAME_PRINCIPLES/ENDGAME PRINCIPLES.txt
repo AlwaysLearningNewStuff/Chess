@@ -1,0 +1,40 @@
+======== PRELUDE: PIECE FEATURES
+
+ - king -> can 1 vs 1 any piece in melee fight, slow, excellent blockader
+ - pawn -> slow, immobile most of the time, promotion feature can win the game, excellent blockader
+ - knight -> slow, clumsy movement pattern, can not create zugzwang, good blockader
+ - bishop -> controls only half of the board, poor blockader, pawn structure dependent, long ranged
+ - rook -> long ranged, fast and agile, poor blockader
+ - queen -> Godlike mobility and firepower, long ranged, poor blockader, usually wins the game
+
+======== GENERAL ENDGAME PLAN:
+
+mindset change -> slow down, count to 10, then start thinking
+
+evaluate both static and dynamic factors for both sides
+	weak squares
+	pawn structure
+	piece coordination/mobility
+	material balance
+
+form a long-term plan -> lines are of secondary priority
+	execution most of the time starts with king centralisation
+	improve piece coordination
+	fix pawn structure defects
+
+paralize opponent 
+	obtain initiative
+	creation of the passed pawn
+	rook on the 7th/2nd rank
+	better piece coordination
+	restrict opponent's piece mobility
+	2 distant fronts give victory to the stronger side
+
+win with zugzwang
+
+======== SPECIAL DEFENSES FOR THE LOSING SIDE:
+
+ - stalemate -> king is not in check and we have no legal moves
+ - fortress -> stronger side can not penetrate into our position
+ - pawns on one side of the board -> almost always ends in a draw
+ - removal of all pawns -> pieces alone can not win most of the time
